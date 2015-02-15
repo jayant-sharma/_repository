@@ -1,4 +1,4 @@
-This project contains files for implementing DAC in verilog and simulation using cocotb on ipython.
+This project contains files for implementing 
 
 Requirements:
 
@@ -17,6 +17,6 @@ Usage:
 	To run gource animation and save it in video, run:
 	    ./gource.sh
 
-	To push to github, run:
-	    ./git.sh hub
+	To push to remote repositories <rep>: hub or lab, run:
+	    ./git.sh push <rep>
 
